@@ -17,5 +17,6 @@ attention range L in Equation 2: We conducted experiments on four moderate value
 
 
 We conducted experiments on four common large kernel size (5, 7, 9, 11) on the SIMD dataset. The best performance was achieved when K=7. The experimental results are as follows.
+
 <img width="718" height="135" alt="Kernel size K" src="https://github.com/user-attachments/assets/4fcc9028-9fe1-4c92-b1b2-54d7bc902c94" />
 
