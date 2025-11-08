@@ -1,5 +1,7 @@
 # YOLO-MFG
 
+Ablation experiments:
+
 The reason for the 4-way split in MGSA is optimal: Our design initially followed the typical three-scale distribution in remote sensing imagery, namely small, medium, and large objects, motivating a three-way channel split. However, since the number of channels in backbone is generally a power of two (2^n), a strict three-way equal division is infeasible. Therefore, we adopt a four-way split as a principled compromise. We evaluated three configurations: C/4+C/4+C/2, C/4+C/2+C/4, and C/2+C/4+C/4, C denotes the number of input channels. The first configuration achieved the best performance. 
 
 
