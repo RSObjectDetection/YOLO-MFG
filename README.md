@@ -1,4 +1,5 @@
 # YOLO-MFG
+This repository contains Ablation experiments results and the average result of multiple runs(including confidence intervals) for our paper:
 
 Ablation experiments:
 
